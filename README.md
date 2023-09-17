@@ -23,7 +23,7 @@ I'm a passionate Frontend Developer based in Dhaka, Bangladesh, specializing in 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rakibul-islam-7859a0152)
-- [Twitter](https://twitter.com/yourusername)
+- [Twitter](https://x.com/imrakibul9?t=yaAUBjcglWFvwl177Y-3EA&s=09)
 - [Email](mailto:rjspyk5@gmail.com)
 
 ## ⚡ Fun Fact
