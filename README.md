@@ -13,10 +13,10 @@ I'm a passionate Frontend Developer based in Dhaka, Bangladesh, specializing in 
 
 ## 🛠️ Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript
-- **Frontend Libraries/Frameworks:** Bootstrap, React Bootstrap, React JS, Material-UI, Tailwind CSS,Daisy UI
+- **Programming Languages:** HTML, CSS, JavaScript,PHP
+- **Frontend Libraries/Frameworks:** Bootstrap, React Bootstrap, React JS, Material-UI, Tailwind CSS,Daisy UI,Flowbite
 - **Version Control:** Git, GitHub
-- **Deployment:** Netlify, Vercel
+- **Deployment:** Netlify, Vercel,Surge
 
 
 ## 🌐 Connect with Me
