@@ -12,7 +12,7 @@ I'm a passionate Frontend Developer based in Dhaka, Bangladesh, specializing in 
 - 😄 Pronouns: He/Him
 
 ## 🔧 Technologies
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,git,vscode&theme=light)
 
 ## GitHub Activity
 | GitHub Streak | Top Languages |
