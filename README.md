@@ -1,6 +1,6 @@
 # Hello, I'm Rakibul Islam 👋
 
-
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ## 🚀 About Me
 I'm a passionate Frontend Developer based in Dhaka, Bangladesh, specializing in creating stunning and user-friendly web applications.
@@ -11,12 +11,13 @@ I'm a passionate Frontend Developer based in Dhaka, Bangladesh, specializing in 
 - 📫 You can contact me via [email](mailto:rjspyk5@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rakibulweb).
 - 😄 Pronouns: He/Him
 
-## 🛠️ Skills
+## 🔧 Technologies
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
 
-- **Programming Languages:** HTML, CSS, JavaScript,PHP
-- **Frontend Libraries/Frameworks:** Bootstrap, React Bootstrap, React JS, Material-UI, Tailwind CSS,Daisy UI,Flowbite
-- **Version Control:** Git, GitHub
-- **Deployment:** Netlify, Vercel,Surge
+## GitHub Activity
+| GitHub Streak | Top Languages |
+| --- | --- |
+| ![GitHub streak stats](https://streak-stats.demolab.com/?user=rjspyk5&theme=dark&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideNums=9f9f9f&sideLabels=9f9f9f) | ![Sy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjspyk5&show_icons=true&title_color=f6c32c&icon_color=4CAF50&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&langs_count=10) |
 
 
 ## 🌐 Connect with Me
