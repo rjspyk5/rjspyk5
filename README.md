@@ -11,7 +11,6 @@ I'm a passionate Frontend Developer based in Dhaka, Bangladesh, specializing in 
 - 👯 I'm enthusiastic about collaborating on open-source projects that align with my interests and expertise.
 - 💬 Feel free to reach out to me for frontend development discussions or any web-related queries.
 - 📫 You can contact me via [email](mailto:rjspyk5@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rakibulweb).
-- 😄 Pronouns: He/Him
 
 ## 🔧 Technologies
 
