@@ -48,3 +48,8 @@ I'm a passionate Frontend Developer based in Dhaka, Bangladesh, specializing in 
 ## ⚡ Fun Fact
 
 I once learned Python, but I've shifted my focus to frontend development. However, I might revisit Python in the future!
+
+<a href="https://komarev.com/ghpvc/?username=rjspyk5">
+    <img align="right" src="https://komarev.com/ghpvc/?username=rjspyk5&label=Visitors&color=0e75b6&style=flat"
+        alt="Profile visitor" />
+</a>
