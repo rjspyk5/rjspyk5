@@ -4,11 +4,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate Frontend Developer based in Dhaka, Bangladesh, specializing in creating stunning and user-friendly web applications.
+I'm a passionate Full Stack Developer based in Dhaka, Bangladesh, specializing in creating stunning and user-friendly web applications.
 
 - 🔭 I’m currently dedicated to enhancing my skills in frontend development and crafting engaging web experiences.
-- 🌱 I have expertise in HTML, CSS, Bootstrap, React Bootstrap, JavaScript, Material-UI, Tailwind CSS, React JS, and the art of version control with Git and GitHub.
-- 👯 I'm enthusiastic about collaborating on open-source projects that align with my interests and expertise.
+- 🌱 I have expertise in Next Js,React Js,JavaScript,Node Js,Express Js,Postman,JWt, Material-UI, Tailwind CSS and the art of version control with Git and GitHub.
 - 💬 Feel free to reach out to me for frontend development discussions or any web-related queries.
 - 📫 You can contact me via [email](mailto:rjspyk5@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rakibulweb).
 
